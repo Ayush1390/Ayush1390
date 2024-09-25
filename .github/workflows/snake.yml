@@ -3,16 +3,16 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:  # Allow manual trigger
+  workflow_dispatch:  # Allows manual trigger of the workflow
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3  # Use the latest version of actions/checkout
+      - uses: actions/checkout@v3  # Update to the latest checkout action (v3 uses Node 16+)
       - name: Generate Snake
-        uses: Platane/snk@v2.0.0  # Ensure you're using a stable version
+        uses: Platane/snk@v2.1.0  # Use the latest version of snk, if available
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit and Push
