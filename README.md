@@ -17,4 +17,4 @@ Hi, I'm **Ayush**! I'm a passionate software developer with expertise in web dev
 ### 🧑‍💻 Visitor Count:
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ayush1390&color=blue)
 
-
+![Snake animation](https://github.com/Ayush1390/Ayush1390/blob/output/github-contribution-grid-snake-dark.svg)
