@@ -18,4 +18,4 @@ Hi, I'm **Ayush**! I'm a passionate software developer with expertise in web dev
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ayush1390&color=blue)
 ###
 
-https://raw.githubusercontent.com/Ayush1390/Ayush1390/output/snake.svg
+<img src="https://raw.githubusercontent.com/Ayush1390/Ayush1390/output/snake.svg" alt="Snake animation" />
