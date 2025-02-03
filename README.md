@@ -1,9 +1,7 @@
 # Welcome to My GitHub Profile 👋
 
 ## About Me:
-Hi, I'm **Ayush**! I'm a passionate software developer with expertise in web development.
-
-
+Hi, I'm **Ayush**! I'm a passionate **Software Developer** with knowledge of **Web Development**, **Data Science**, **Data Analysis**, **Machine Learning (ML)**, and **Artificial Intelligence (AI)**. I enjoy combining my skills in programming with my passion for data to build powerful solutions.
 
 ## Tech Stack
 
@@ -11,10 +9,8 @@ Hi, I'm **Ayush**! I'm a passionate software developer with expertise in web dev
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
@@ -28,6 +24,19 @@ Hi, I'm **Ayush**! I'm a passionate software developer with expertise in web dev
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
+### Data Science & Machine Learning
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/seaborn-%23000000.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%23000000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### AI & Machine Learning
+![HuggingFace](https://img.shields.io/badge/huggingface-%23FF7A8E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![Langchain](https://img.shields.io/badge/langchain-%233DC4A6.svg?style=for-the-badge&logo=python&logoColor=white)  <!-- Custom badge for Langchain -->
+
+### Data Visualization
+![Power BI](https://img.shields.io/badge/power_bi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 
 ### 🔥 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush1390&show_icons=true&theme=radical)
@@ -43,5 +52,3 @@ Hi, I'm **Ayush**! I'm a passionate software developer with expertise in web dev
 
 ### 🧑‍💻 Visitor Count:
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ayush1390&color=blue)
-###
-
